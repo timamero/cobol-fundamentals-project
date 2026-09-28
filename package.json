@@ -1,0 +1,13 @@
+{
+  "name": "cobol-fundamentals-project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Fatima Anne Camero",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "clg-hello": "zowe jobs submit ds 'Z77180.JCL(HELLO2)' -d .",
+    "clg-employee": "zowe jobs submit ds 'Z77180.JCL(EMPLOYEE)' -d ."
+  }
+}
