@@ -29,6 +29,10 @@ To configure Zowe Explorer, follow these steps:
 
 For more information on Zowe Explorer Extension, refer to the official documentation: [Zowe Explorer for Visual Studio Code Documentation](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
 
+## COBOL Programming with IBM Z Open Editor
+
+IBM Z Open Editor is an extension for Visual Studio Code that provides language support for COBOL development. It includes features such as syntax highlighting, code snippets, and integration with mainframe resources.
+
 ## Example Execution Steps
 
 To execute a COBOL program, follow these steps:
