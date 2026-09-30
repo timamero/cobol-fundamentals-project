@@ -14,7 +14,7 @@ Collection of COBOL programs, exercises, and labs to help me learn COBOL and JCL
 
 ### Why Zowe Explorer?
 
-Zowe Explorer provides a modern method of interacting with a z/OS mainframe. It is a modern alternative to a 3270 emulator. An advantage of Zowe Explorer is that it allows developers to use a familiar IDE, VS Code, to interact with a mainframe and manage all their mainframe code in one place.
+Zowe Explorer provides an interface to interact with a z/OS mainframe. It is a modern alternative to a 3270 emulator. An advantage of Zowe Explorer is that it enables developers to use a familiar IDE, VS Code, to search, manage, and interact with z/OS mainframe resources.
 
 ### Configuring Zowe Explorer
 
