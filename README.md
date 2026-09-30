@@ -10,6 +10,25 @@ Collection of COBOL programs, exercises, and labs to help me learn COBOL and JCL
 - Zowe CLI: Command-line interface for interacting with mainframe resources.
 - IBM Z Xplore Access: Access to IBM Z mainframe resources for testing and running COBOL programs.
 
+## Getting Started with Zowe Explorer
+
+### Why Zowe Explorer?
+
+Zowe Explorer provides a modern method of interacting with a z/OS mainframe. It is a modern alternative to a 3270 emulator. An advantage of Zowe Explorer is that it allows developers to use a familiar IDE, VS Code, to interact with a mainframe and manage all their mainframe code in one place.
+
+### Configuring Zowe Explorer
+
+To configure Zowe Explorer, follow these steps:
+
+1. Install Visual Studio Code if you haven't already.
+2. Install the Zowe Explorer extension from the Visual Studio Code marketplace.
+3. In the Zowe Explorer extension settings, ensure that Zowe Security: Check For Custom Credential Managers and Secure Credentials are enabled to allow secure storage of your mainframe credentials.
+4. Open Zowe Explorer and create a new team team configuration file with the necessary connection details (host, port, etc.) for your IBM Z mainframe.
+5. Update credentials in the team configuration file with your mainframe username and password.
+6. Test the connection to ensure it is successful and you can access the mainframe resources.
+
+For more information on Zowe Explorer Extension, refer to the official documentation: [Zowe Explorer for Visual Studio Code Documentation](https://marketplace.visualstudio.com/items?itemName=Zowe.vscode-extension-for-zowe)
+
 ## Example Execution Steps
 
 To execute a COBOL program, follow these steps:
